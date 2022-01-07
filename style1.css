@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+}
+.top{
+    font-size: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#photoshop{
+    size: 100%;
+    float: right;
+}

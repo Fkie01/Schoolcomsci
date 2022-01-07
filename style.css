@@ -1,0 +1,31 @@
+*{
+    font-family: "Kanit", sans-serif ;
+    background-color: black;
+    color: azure;
+}
+h1{
+    font-size: 200%;
+}
+input[type=text], select{
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+    color: brown;
+    
+}
+input[type=password], select{
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;    
+}
+p{
+    color: cadetblue;
+    font-size: 150%;
+}
+input[type=radio], select{
+   border-radius: 5px;
+   color: chartreuse;    
+}
+.submit{
+    color: chocolate;
+}
